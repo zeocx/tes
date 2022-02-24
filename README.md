@@ -21,9 +21,9 @@
   <a href="https://github.com/zeocx"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
 
-### Pubg mobile 🎮
+### loving sandrina
 <p align="center">
-  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+  <img src="https://github.com/zeocx/tes/blob/main/59c9895e8b908337fdfe0.gif" />
 </p>
 
 ------
