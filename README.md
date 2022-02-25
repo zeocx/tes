@@ -8,6 +8,7 @@
 - 👼 My name is zeo 
 - 🗣️ I am 15 years old 
 - 🔭 I am not programmer
+- 😼 Seulgi addict
 
 </p>
 
