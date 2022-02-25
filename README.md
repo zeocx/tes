@@ -43,10 +43,10 @@
 <p align="center"><a href="https://github.com/zeocx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeocx&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=api-zeeoneofc&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeocx&repo=zeo-md-v3&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeocx&repo=zeo-v7&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeocx&repo=zeo-v11&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeocx&repo=zeocx&theme=nightowl)
 
 
 <details>
