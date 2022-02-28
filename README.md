@@ -23,9 +23,9 @@
   <a href="https://github.com/zeocx"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
 
-### winter
+### Winter Aespa
 <p align="center">
-  <img src="https://github.com/zeocx/zeocx/blob/main/ezgif-4-93ccd5b9d6.gif" />
+  <a href="https://instagram.com/aespa_official"><img src="https://github.com/zeocx/zeocx/blob/main/ezgif-4-93ccd5b9d6.gif" />
 </p>
 
 ------
