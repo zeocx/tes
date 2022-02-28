@@ -22,9 +22,9 @@
   <a href="https://github.com/zeocx"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
 
-### loving sandrina
+### winter
 <p align="center">
-  <img src="https://github.com/zeocx/tes/blob/main/59c9895e8b908337fdfe0.gif" />
+  <img src="https://github.com/zeocx/zeocx/blob/main/ezgif-4-93ccd5b9d6.gif" />
 </p>
 
 ------
