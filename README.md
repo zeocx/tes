@@ -21,10 +21,8 @@
   <a href="https://t.me/bandarbokebs"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=i8TZu-ohSFCOglHWv0boaA"><img src="https://img.shields.io/badge/Spotify-25D366?style=for-the-badge&logo=spotify&logoColor=white" />
   <a href="https://github.com/zeocx"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
-    <a href="https://instagram.com/abied.gilang"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=white"/> 
-      <a href="https://instagram.com/abied.gilang"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=white](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)"/> 
-</p>
-
+    <a href="https://instagram.com/abied.gilang"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> 
+      
 ### Winter Aespa
 <p align="center">
   <a href="https://instagram.com/aespa_official"><img src="https://github.com/zeocx/zeocx/blob/main/ezgif-4-93ccd5b9d6.gif" />
